@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
 
-**JeniferPadilla/JeniferPadilla** ✨ 
+** I'm Jennifer Karina, a systems engineer.** ✨ 
 
 I am a respectful, trustworthy, kind, sincere, responsible, creative person, with initiative, I gladly take on challenges with a lot of effort and good management of interpersonal relationships, ease of teamwork.
 Knowledge of MySQL, HTML5, JavaScript, PHP, CSS, Bootstrap
