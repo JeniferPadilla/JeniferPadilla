@@ -7,4 +7,4 @@ I am a respectful, trustworthy, kind, sincere, responsible, creative person, wit
 
 
 Knowledge of MySQL, HTML5, JavaScript, PHP, CSS, Bootstrap
-Knowledge of MySQL, MongoDB, JQuery databases.
+Knowledge of MySQL, MongoDB, JQuery databases, .Net.
